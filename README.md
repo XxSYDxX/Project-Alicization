@@ -1,5 +1,4 @@
 # Project Alicization
-Just what the title says
 
 Inspired by the anime show ***Sword Art Online: Alicization***, I took upon a challenge to create a
 **real world virtual world** that has humans who reproduce and form civilizations and to the **become
